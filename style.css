@@ -176,7 +176,9 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://images.pexels.com/photos/4360449/pexels-photo-4360449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center;
+/*     background: url("https://images.pexels.com/photos/4360449/pexels-photo-4360449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center;
+    background: url("https://www.amd.com/content/dam/amd/en/images/abstract/648568-developer-code.jpg") no-repeat center;
+ */    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFa7ZCSD5R8hFPVGB3XSwyHsJXu6EcHO4Lhg&s") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
